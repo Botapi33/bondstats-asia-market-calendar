@@ -2,7 +2,7 @@
   "meta": {
     "product": "BondStats Asia Market Calendar",
     "version": "1.0.0",
-    "generatedAt": "2026-09-19T12:35:57.993Z",
+    "generatedAt": "2026-09-19T12:38:58.993Z",
     "methodology": "Only dates/times supported by named official institutional sources are published as confirmed. Facts are normalized; source prose, charts, logos and proprietary calendar compilations are not reproduced.",
     "markets": [
       {
@@ -60,7 +60,7 @@
       "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-19T12:35:57.978Z"
+      "lastChecked": "2026-09-19T12:38:58.985Z"
     },
     {
       "id": "670d87db333392962099",
@@ -81,7 +81,7 @@
       "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref250731a.pdf",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-19T12:35:57.978Z"
+      "lastChecked": "2026-09-19T12:38:58.985Z"
     },
     {
       "id": "eaaec92f40584d5e2a74",
@@ -102,7 +102,7 @@
       "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-19T12:35:57.978Z"
+      "lastChecked": "2026-09-19T12:38:58.985Z"
     },
     {
       "id": "0bf8f72e1629e56628af",
@@ -123,7 +123,7 @@
       "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-19T12:35:57.978Z"
+      "lastChecked": "2026-09-19T12:38:58.985Z"
     },
     {
       "id": "0269898c66fe504970f0",
@@ -144,7 +144,7 @@
       "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref250731a.pdf",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-19T12:35:57.978Z"
+      "lastChecked": "2026-09-19T12:38:58.985Z"
     }
   ]
 }
