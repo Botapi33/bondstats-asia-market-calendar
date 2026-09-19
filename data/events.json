@@ -1,8 +1,8 @@
 {
   "meta": {
     "product": "BondStats Asia Market Calendar",
-    "version": "1.0.0",
-    "generatedAt": "2026-09-19T12:38:58.993Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-09-19T12:57:19.007Z",
     "methodology": "Only dates/times supported by named official institutional sources are published as confirmed. Facts are normalized; source prose, charts, logos and proprietary calendar compilations are not reproduced.",
     "markets": [
       {
@@ -38,7 +38,7 @@
         "name": "New Zealand"
       }
     ],
-    "eventCount": 5
+    "eventCount": 21
   },
   "events": [
     {
@@ -60,7 +60,117 @@
       "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-19T12:38:58.985Z"
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "5cb9b15ac1c6fd31c38b",
+      "country": "CN",
+      "market": "China",
+      "event": "Official Manufacturing & Non-Manufacturing PMI",
+      "category": "activity",
+      "date": "2026-09-30",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE",
+        "CREDIT",
+        "EQUITIES"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.989Z"
+    },
+    {
+      "id": "c0293f89f505d36c9f1f",
+      "country": "CN",
+      "market": "China",
+      "event": "Consumer Price Index (CPI)",
+      "category": "inflation",
+      "date": "2026-10-14",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "b8b88d15858ae15d6bb5",
+      "country": "CN",
+      "market": "China",
+      "event": "Producer Price Index (PPI)",
+      "category": "inflation",
+      "date": "2026-10-14",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "importance": "medium",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "CREDIT"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "59fbdf0cc7abb3edee97",
+      "country": "SG",
+      "market": "Singapore",
+      "event": "Singapore External Trade / NODX",
+      "category": "trade",
+      "date": "2026-10-16",
+      "time": null,
+      "timezone": "Asia/Singapore",
+      "importance": "high",
+      "transmissionChannels": [
+        "FX",
+        "RATES",
+        "CREDIT",
+        "EQUITIES"
+      ],
+      "source": "Enterprise Singapore",
+      "sourceUrl": "https://www.enterprisesg.gov.sg/resources/media-centre/media-releases/2026/september/mr04226_singapore-external-trade-august-2026",
+      "status": "confirmed",
+      "notes": "Scheduled from Enterprise Singapore’s published standing release rule: monthly trade statistics are released on the 17th or nearest working day.",
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "d53f3d5bd61b148dbb26",
+      "country": "CN",
+      "market": "China",
+      "event": "National Economic Performance — Q3 / September activity",
+      "category": "growth",
+      "date": "2026-10-19",
+      "time": "10:00",
+      "timezone": "Asia/Shanghai",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE",
+        "CREDIT",
+        "EQUITIES"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
     },
     {
       "id": "670d87db333392962099",
@@ -81,7 +191,30 @@
       "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref250731a.pdf",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-19T12:38:58.985Z"
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "6e405453e533a27f77e9",
+      "country": "CN",
+      "market": "China",
+      "event": "Official Manufacturing & Non-Manufacturing PMI",
+      "category": "activity",
+      "date": "2026-10-31",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE",
+        "CREDIT",
+        "EQUITIES"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
     },
     {
       "id": "eaaec92f40584d5e2a74",
@@ -102,7 +235,117 @@
       "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-19T12:38:58.985Z"
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "875fdc9399e3d9db03a9",
+      "country": "CN",
+      "market": "China",
+      "event": "Consumer Price Index (CPI)",
+      "category": "inflation",
+      "date": "2026-11-09",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "6b7cb1caf6f7ded60199",
+      "country": "CN",
+      "market": "China",
+      "event": "Producer Price Index (PPI)",
+      "category": "inflation",
+      "date": "2026-11-09",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "importance": "medium",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "CREDIT"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "ea9643ddbaadaf9e2e95",
+      "country": "CN",
+      "market": "China",
+      "event": "National Economic Performance — October activity",
+      "category": "activity",
+      "date": "2026-11-16",
+      "time": "10:00",
+      "timezone": "Asia/Shanghai",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE",
+        "CREDIT",
+        "EQUITIES"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "3334fa2f2948e39bbfba",
+      "country": "SG",
+      "market": "Singapore",
+      "event": "Singapore External Trade / NODX",
+      "category": "trade",
+      "date": "2026-11-17",
+      "time": null,
+      "timezone": "Asia/Singapore",
+      "importance": "high",
+      "transmissionChannels": [
+        "FX",
+        "RATES",
+        "CREDIT",
+        "EQUITIES"
+      ],
+      "source": "Enterprise Singapore",
+      "sourceUrl": "https://www.enterprisesg.gov.sg/resources/media-centre/media-releases/2026/september/mr04226_singapore-external-trade-august-2026",
+      "status": "confirmed",
+      "notes": "Scheduled from Enterprise Singapore’s published standing release rule: monthly trade statistics are released on the 17th or nearest working day.",
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "02cd341642b5d0fca916",
+      "country": "CN",
+      "market": "China",
+      "event": "Official Manufacturing & Non-Manufacturing PMI",
+      "category": "activity",
+      "date": "2026-11-30",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE",
+        "CREDIT",
+        "EQUITIES"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
     },
     {
       "id": "0bf8f72e1629e56628af",
@@ -123,7 +366,94 @@
       "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-19T12:38:58.985Z"
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "ba84ed96d6b985289682",
+      "country": "CN",
+      "market": "China",
+      "event": "Consumer Price Index (CPI)",
+      "category": "inflation",
+      "date": "2026-12-09",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "ec6b828c72eba444605f",
+      "country": "CN",
+      "market": "China",
+      "event": "Producer Price Index (PPI)",
+      "category": "inflation",
+      "date": "2026-12-09",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "importance": "medium",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "CREDIT"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "b7e50b2abfe1ae83f385",
+      "country": "CN",
+      "market": "China",
+      "event": "National Economic Performance — November activity",
+      "category": "activity",
+      "date": "2026-12-15",
+      "time": "10:00",
+      "timezone": "Asia/Shanghai",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE",
+        "CREDIT",
+        "EQUITIES"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "b60318320c730dc313e1",
+      "country": "SG",
+      "market": "Singapore",
+      "event": "Singapore External Trade / NODX",
+      "category": "trade",
+      "date": "2026-12-17",
+      "time": null,
+      "timezone": "Asia/Singapore",
+      "importance": "high",
+      "transmissionChannels": [
+        "FX",
+        "RATES",
+        "CREDIT",
+        "EQUITIES"
+      ],
+      "source": "Enterprise Singapore",
+      "sourceUrl": "https://www.enterprisesg.gov.sg/resources/media-centre/media-releases/2026/september/mr04226_singapore-external-trade-august-2026",
+      "status": "confirmed",
+      "notes": "Scheduled from Enterprise Singapore’s published standing release rule: monthly trade statistics are released on the 17th or nearest working day.",
+      "lastChecked": "2026-09-19T12:57:18.990Z"
     },
     {
       "id": "0269898c66fe504970f0",
@@ -144,7 +474,30 @@
       "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref250731a.pdf",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-19T12:38:58.985Z"
+      "lastChecked": "2026-09-19T12:57:18.990Z"
+    },
+    {
+      "id": "cc292766e37ba3058e7f",
+      "country": "CN",
+      "market": "China",
+      "event": "Official Manufacturing & Non-Manufacturing PMI",
+      "category": "activity",
+      "date": "2026-12-31",
+      "time": "09:30",
+      "timezone": "Asia/Shanghai",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE",
+        "CREDIT",
+        "EQUITIES"
+      ],
+      "source": "National Bureau of Statistics of China",
+      "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:57:18.990Z"
     }
   ]
 }
