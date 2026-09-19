@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "product": "BondStats Asia Market Calendar",
+    "version": "1.0.0",
+    "generatedAt": "2026-09-19T12:35:57.993Z",
+    "methodology": "Only dates/times supported by named official institutional sources are published as confirmed. Facts are normalized; source prose, charts, logos and proprietary calendar compilations are not reproduced.",
+    "markets": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong"
+      },
+      {
+        "code": "SG",
+        "name": "Singapore"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "KR",
+        "name": "South Korea"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "NZ",
+        "name": "New Zealand"
+      }
+    ],
+    "eventCount": 5
+  },
+  "events": [
+    {
+      "id": "cdcee8ac17c25ab9d1ef",
+      "country": "AU",
+      "market": "Australia",
+      "event": "RBA Monetary Policy Decision",
+      "category": "monetary-policy",
+      "date": "2026-09-29",
+      "time": "14:30",
+      "timezone": "Australia/Sydney",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE"
+      ],
+      "source": "Reserve Bank of Australia",
+      "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:35:57.978Z"
+    },
+    {
+      "id": "670d87db333392962099",
+      "country": "JP",
+      "market": "Japan",
+      "event": "Bank of Japan Monetary Policy Meeting — decision day",
+      "category": "monetary-policy",
+      "date": "2026-10-30",
+      "time": null,
+      "timezone": "Asia/Tokyo",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE"
+      ],
+      "source": "Bank of Japan",
+      "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref250731a.pdf",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:35:57.978Z"
+    },
+    {
+      "id": "eaaec92f40584d5e2a74",
+      "country": "AU",
+      "market": "Australia",
+      "event": "RBA Monetary Policy Decision",
+      "category": "monetary-policy",
+      "date": "2026-11-03",
+      "time": "14:30",
+      "timezone": "Australia/Sydney",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE"
+      ],
+      "source": "Reserve Bank of Australia",
+      "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:35:57.978Z"
+    },
+    {
+      "id": "0bf8f72e1629e56628af",
+      "country": "AU",
+      "market": "Australia",
+      "event": "RBA Monetary Policy Decision",
+      "category": "monetary-policy",
+      "date": "2026-12-08",
+      "time": "14:30",
+      "timezone": "Australia/Sydney",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE"
+      ],
+      "source": "Reserve Bank of Australia",
+      "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:35:57.978Z"
+    },
+    {
+      "id": "0269898c66fe504970f0",
+      "country": "JP",
+      "market": "Japan",
+      "event": "Bank of Japan Monetary Policy Meeting — decision day",
+      "category": "monetary-policy",
+      "date": "2026-12-18",
+      "time": null,
+      "timezone": "Asia/Tokyo",
+      "importance": "high",
+      "transmissionChannels": [
+        "RATES",
+        "FX",
+        "SOVEREIGN_CURVE"
+      ],
+      "source": "Bank of Japan",
+      "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref250731a.pdf",
+      "status": "confirmed",
+      "notes": null,
+      "lastChecked": "2026-09-19T12:35:57.978Z"
+    }
+  ]
+}

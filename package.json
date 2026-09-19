@@ -1,0 +1,8 @@
+{
+  "name": "bondstats-asia-market-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"update": "node src/update.mjs", "validate": "node src/validate.mjs"},
+  "engines": {"node": ">=20"}
+}
