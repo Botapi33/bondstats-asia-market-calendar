@@ -2,7 +2,7 @@
   "meta": {
     "product": "BondStats Asia Market Calendar",
     "version": "1.1.0",
-    "generatedAt": "2026-09-20T09:48:12.564Z",
+    "generatedAt": "2026-09-21T10:42:05.319Z",
     "methodology": "Only dates/times supported by named official institutional sources are published as confirmed. Facts are normalized; source prose, charts, logos and proprietary calendar compilations are not reproduced.",
     "markets": [
       {
@@ -60,7 +60,7 @@
       "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "5cb9b15ac1c6fd31c38b",
@@ -83,7 +83,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "c0293f89f505d36c9f1f",
@@ -104,7 +104,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "b8b88d15858ae15d6bb5",
@@ -125,7 +125,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "59fbdf0cc7abb3edee97",
@@ -147,7 +147,7 @@
       "sourceUrl": "https://www.enterprisesg.gov.sg/resources/media-centre/media-releases/2026/september/mr04226_singapore-external-trade-august-2026",
       "status": "confirmed",
       "notes": "Scheduled from Enterprise Singapore’s published standing release rule: monthly trade statistics are released on the 17th or nearest working day.",
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "d53f3d5bd61b148dbb26",
@@ -170,7 +170,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "670d87db333392962099",
@@ -191,7 +191,7 @@
       "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref250731a.pdf",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "6e405453e533a27f77e9",
@@ -214,7 +214,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "eaaec92f40584d5e2a74",
@@ -235,7 +235,7 @@
       "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "875fdc9399e3d9db03a9",
@@ -256,7 +256,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "6b7cb1caf6f7ded60199",
@@ -277,7 +277,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "ea9643ddbaadaf9e2e95",
@@ -300,7 +300,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "3334fa2f2948e39bbfba",
@@ -322,7 +322,7 @@
       "sourceUrl": "https://www.enterprisesg.gov.sg/resources/media-centre/media-releases/2026/september/mr04226_singapore-external-trade-august-2026",
       "status": "confirmed",
       "notes": "Scheduled from Enterprise Singapore’s published standing release rule: monthly trade statistics are released on the 17th or nearest working day.",
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "02cd341642b5d0fca916",
@@ -345,7 +345,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "0bf8f72e1629e56628af",
@@ -366,7 +366,7 @@
       "sourceUrl": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "ba84ed96d6b985289682",
@@ -387,7 +387,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "ec6b828c72eba444605f",
@@ -408,7 +408,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "b7e50b2abfe1ae83f385",
@@ -431,7 +431,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "b60318320c730dc313e1",
@@ -453,7 +453,7 @@
       "sourceUrl": "https://www.enterprisesg.gov.sg/resources/media-centre/media-releases/2026/september/mr04226_singapore-external-trade-august-2026",
       "status": "confirmed",
       "notes": "Scheduled from Enterprise Singapore’s published standing release rule: monthly trade statistics are released on the 17th or nearest working day.",
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "0269898c66fe504970f0",
@@ -474,7 +474,7 @@
       "sourceUrl": "https://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref250731a.pdf",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     },
     {
       "id": "cc292766e37ba3058e7f",
@@ -497,7 +497,7 @@
       "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
       "status": "confirmed",
       "notes": null,
-      "lastChecked": "2026-09-20T09:48:12.556Z"
+      "lastChecked": "2026-09-21T10:42:05.311Z"
     }
   ]
 }
